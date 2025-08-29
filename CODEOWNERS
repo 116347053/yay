@@ -1,0 +1,8 @@
+# Global code owners - Repository owner
+* @116347053
+
+# Specific file owners
+*.md @116347053
+*.js @116347053
+*.yml @116347053
+*.yaml @116347053
